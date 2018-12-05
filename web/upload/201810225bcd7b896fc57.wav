@@ -1,0 +1,8 @@
+Array
+(
+)
+<pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Users\tian.xiaoyi\Desktop\Recordertest\controllers\TextController.php:54:</small><font color='#3465a4'>null</font>
+</pre><pre class='xdebug-var-dump' dir='ltr'>
+<small>C:\Users\tian.xiaoyi\Desktop\Recordertest\controllers\TextController.php:57:</small><small>string</small> <font color='#cc0000'>'.wav'</font> <i>(length=4)</i>
+</pre>
