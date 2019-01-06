@@ -6,3 +6,4 @@
     <br>
 </p>
 <img src="https://github.com/huanshenyi/Yii2_Recorder/blob/master/img3.png?raw=true">
+<img src="https://github.com/huanshenyi/Yii2_Recorder/blob/master/img4.png?raw=true">
